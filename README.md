@@ -10,6 +10,7 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais de
 ## 🛅 Dependências
 
 - Django
+- Django Rest Framework (DRF)
 
 
 ## 📅 Banco de Dados
