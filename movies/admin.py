@@ -4,4 +4,4 @@ from movies.models import Movie
 
 @admin.register(Movie)
 class MovieAdmin(admin.ModelAdmin):
-    list_display = ('id', 'title', 'release_data', 'actors', 'resumo')
+    list_display = ('id', 'title', 'genre', 'release_data', 'resumo')
