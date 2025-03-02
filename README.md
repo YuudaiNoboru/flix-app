@@ -11,6 +11,7 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais de
 
 - Django
 - Django Rest Framework (DRF)
+- Simple JWT
 
 
 ## 📅 Banco de Dados
